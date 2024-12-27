@@ -1,0 +1,142 @@
+[
+    {
+        "imageName": "dummy1.png",
+        "title": "Insights into technology",
+        "content": "AI is transforming the way businesses operate in the digital age",
+        "userId": 73,
+        "categoryId": 1
+    },
+    {
+        "imageName": "dummy2.png",
+        "title": "Travel diaries",
+        "content": "Exploring the serene landscapes of Iceland is a must for nature lovers",
+        "userId": 53,
+        "categoryId": 2
+    },
+    {
+        "imageName": "dummy3.png",
+        "title": "Health tips to live better",
+        "content": "Incorporating yoga into your daily routine can significantly improve your well-being",
+        "userId": 94,
+        "categoryId": 2
+    },
+    {
+        "imageName": "dummy4.png",
+        "title": "The latest in entertainment",
+        "content": "A new blockbuster is set to hit the theaters this weekend",
+        "userId": 38,
+        "categoryId": 2
+    },
+    {
+        "imageName": "dummy5.png",
+        "title": "Top recipes of the season",
+        "content": "This creamy pasta recipe will make your day better",
+        "userId": 1,
+        "categoryId": 2
+    },
+    {
+        "imageName": "dummy6.png",
+        "title": "Fitness for beginners",
+        "content": "Starting with a 15-minute daily walk can boost your fitness journey",
+        "userId": 8,
+        "categoryId": 2
+    },
+    {
+        "imageName": "dummy7.png",
+        "title": "A review of the latest gadgets",
+        "content": "Our review of the latest smartphone highlights its cutting-edge features",
+        "userId": 87,
+        "categoryId": 52
+    },
+    {
+        "imageName": "dummy8.png",
+        "title": "Creative DIY projects",
+        "content": "Learn how to create a stunning photo frame with minimal effort",
+        "userId": 58,
+        "categoryId": 52
+    },
+    {
+        "imageName": "dummy9.png",
+        "title": "Economic trends to watch",
+        "content": "Analyzing the stock market can help you make informed investment decisions",
+        "userId": 50,
+        "categoryId": 52
+    },
+    {
+        "imageName": "dummy10.png",
+        "title": "Environmental awareness",
+        "content": "Efforts to combat climate change are intensifying across the globe",
+        "userId": 49,
+        "categoryId": 52
+    },
+    {
+        "imageName": "dummy11.png",
+        "title": "The art of photography",
+        "content": "Taking the perfect shot requires patience and understanding of lighting",
+        "userId": 6,
+        "categoryId": 2
+    },
+    {
+        "imageName": "dummy12.png",
+        "title": "Education in the modern world",
+        "content": "Online courses are redefining traditional education paradigms",
+        "userId": 90,
+        "categoryId": 1
+    },
+    {
+        "imageName": "dummy13.png",
+        "title": "Space exploration updates",
+        "content": "NASA announces a groundbreaking mission to study Jupiter\u2019s moons",
+        "userId": 35,
+        "categoryId": 1
+    },
+    {
+        "imageName": "dummy14.png",
+        "title": "Music trends in 2024",
+        "content": "Pop music has taken a dynamic turn with emerging new artists",
+        "userId": 50,
+        "categoryId": 1
+    },
+    {
+        "imageName": "dummy15.png",
+        "title": "Fashion tips for the season",
+        "content": "Discover how to pair your outfits to create stunning looks",
+        "userId": 71,
+        "categoryId": 1
+    },
+    {
+        "imageName": "dummy16.png",
+        "title": "The joy of reading books",
+        "content": "Reading historical novels can transport you to another era",
+        "userId": 33,
+        "categoryId": 52
+    },
+    {
+        "imageName": "dummy17.png",
+        "title": "Gaming news and updates",
+        "content": "The latest gaming console promises unparalleled immersive experiences",
+        "userId": 37,
+        "categoryId": 1
+    },
+    {
+        "imageName": "dummy18.png",
+        "title": "Entrepreneurial success stories",
+        "content": "Learn the traits of successful entrepreneurs through these case studies",
+        "userId": 69,
+        "categoryId": 2
+    },
+    {
+        "imageName": "dummy19.png",
+        "title": "Exploring mental health awareness",
+        "content": "Understanding mental health can lead to a more empathetic society",
+        "userId": 64,
+        "categoryId": 2
+    },
+    {
+        "imageName": "dummy20.png",
+        "title": "A new post about sports",
+        "content": "Barcelona having the best season but still only one point above Real Madrid who have played one game less",
+        "userId": 69,
+        "categoryId": 2
+    }
+]
